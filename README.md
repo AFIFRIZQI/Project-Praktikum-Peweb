@@ -17,3 +17,9 @@ Aplikasi ini dirancang dengan tampilan yang sederhana namun modern, dilengkapi d
 
 # Project
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/59d9da44-9ffe-405a-82a8-91c123dec137" />
+
+# Bahasa Pemograman
+-php
+-html
+-css
+-javascript
